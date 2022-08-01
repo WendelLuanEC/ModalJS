@@ -1,3 +1,2 @@
-# ModalJS
-# ModalJS
+
 # ModalJS
