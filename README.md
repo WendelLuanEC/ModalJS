@@ -1,1 +1,1 @@
-# Small-Projects
+# ModalJS
